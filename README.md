@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a software engineer primarily breaking things in backend systems but I also dabble with infastructure, data engineering and frontend (I guess what I'm saying is that I work fullstack?). Currently working as a Senior Backend Engineer at Ark Kapital. Ex-Spotify where I worked primarily with Subscriptions and payments.
+
+Connect with me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-evertsson/)
+
 <!--
 **Oscmage/Oscmage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
